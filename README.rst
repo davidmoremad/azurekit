@@ -2,6 +2,26 @@ Azure Kit
 =========
 
 
+|Docs| |Version| |Pypi| |Codacy| |Coverage|
+
+
+.. |Docs| image:: https://readthedocs.org/projects/azurekit/badge/?version=latest
+   :target: http://azurekit.readthedocs.io/en/latest/?badge=latest
+   :alt: Read the Docs
+.. |Version| image:: https://img.shields.io/pypi/pyversions/azurekit.svg
+   :target: https://pypi.org/project/azurekit/
+   :alt: PyPI - Python Version
+.. |Pypi| image:: http://img.shields.io/pypi/v/azurekit.svg?style=flat
+    :target: https://pypi.python.org/pypi/azurekit/
+    :alt: Package Version
+.. |Codacy| image:: https://api.codacy.com/project/badge/Grade/771dc538da464b5ea35df936bc4fe29e
+    :target: https://www.codacy.com/app/davidmoremad/azurekit?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=davidmoremad/azurekit&amp;utm_campaign=Badge_Grade
+    :alt: Codacy
+.. |Coverage| image:: https://api.codacy.com/project/badge/Coverage/771dc538da464b5ea35df936bc4fe29e
+    :target: https://www.codacy.com/app/davidmoremad/azurekit?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=davidmoremad/azurekit&amp;utm_campaign=Badge_Coverage
+    :alt: Coverage
+
+
 *****************
 What is AzureKit?
 *****************
