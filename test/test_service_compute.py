@@ -19,5 +19,5 @@ class TestServiceCompute():
         vms = Factory().get_VirtualMachinePaged(count=13)
         mocker.patch.object(client, 'get_machines', return_value=vms)
 
-        instances = client.get_instances()
+        instances = client.get_machines()
         assert len(instances) == 13
