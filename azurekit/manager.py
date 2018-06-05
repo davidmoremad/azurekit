@@ -1,3 +1,4 @@
+from os import environ
 from .services import *
 
 class AzureManager(object):
